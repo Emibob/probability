@@ -1,0 +1,46 @@
+/*css.css*/
+
+body{
+	font-size: 14px;
+	font-family: 'Abel', sans-serif;
+}
+h1{
+	font-size: 18px;
+	font-family: 'Lobster', cursive;
+}
+h2{
+	font-size: 16px;
+	font-family: 'Abel', sans-serif;
+}
+ul, ol{
+	list-style: none;
+	margin:0px;
+	padding: 0px;
+}
+li{
+	letter-spacing: 2px;
+	padding: 10px 5px;
+	text-transform: uppercase;
+	float: left;
+	font-weight: bold;
+	font-size: 30px;
+}
+.clear{
+	clear:both;
+}
+#colors{
+	width:60%;
+	margin:0px auto;
+}
+#red{ color: #E40303; }
+#orange{ color: #E47B03; }
+#yellow{ color: #E4DC03; }
+#green{ color: #55E403; }
+#blue{ color: #0399E4; }
+#purple{ color: #8A03E4; }
+
+#probability{
+	color: #FF0080;
+	font-size: 16px;
+	text-transform: uppercase;
+}
